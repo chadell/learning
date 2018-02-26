@@ -25,6 +25,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Blogs
 
+* [Enter Dev y Ops](http://www.entredevyops.es/)
 * [Scott Lowe Blog](https://blog.scottlowe.org/)
 
 ## Books
@@ -46,6 +47,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Blogs
 
+* [Brendan Gregg Blog](http://www.brendangregg.com/blog/index.html)
 * [Julia Evans Blog](https://jvns.ca/)
 
 ## Books
@@ -58,6 +60,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [LPIC-1](https://cloudacademy.com/library/certifications/courses/)
 
 ## Articles
+
+* [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
 
 ## Outputs
 
@@ -122,6 +126,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Outputs
 
+* [DevOps Training, spanish](https://bitbucket.org/dcaba/devops-training/)
+
 # Networking
 
 ## Blogs
@@ -130,6 +136,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Packet Pushers](http://packetpushers.net/)
 * [Ryan Booth Blog](http://blog.movingonesandzeros.net/)
 * [Geoff Huston Blog](https://www.potaroo.net/)
+* [The Networking Nerd)[https://networkingnerd.net/]
 * [David Barroso Blog](https://www.dravetech.com/blog/)
 * [Network Collective](https://thenetworkcollective.com/category/episodes/)
 * [Tech Field Day](http://techfieldday.com/)
@@ -148,7 +155,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Conferences
 
-* [GORE 19]
+* [GORE 19](http://www.esnog.net/gore19.html)
 * [RIPE 74](https://ripe74.ripe.net/)
 * [DevOPs Networking Summit 2016](https://www.linux.com/watch-devops-summit-2016-videos)
 * [RIPE 73](https://ripe73.ripe.net/)
@@ -156,6 +163,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Articles
 
 * [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
+* [PacketLife - Chear Sheets + Captures](http://packetlife.net/)
 
 ## Outputs
 
