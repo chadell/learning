@@ -1,18 +1,31 @@
 # Learning materials
 
-Bunch of materials used from 2016
+Keeping track of your learning process is quite difficult when you are moveing from one topic to another. This repository is just a way to remember the best material I've been using since 2016 for learning and fun.
 
 ## Ongoing
 
 * [AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
+* [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
 
 ## Backlog
 
 * [AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
+* [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
+* [GCP vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/)
+* [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
+* [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
+* [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
+* [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+
 
 # Cloud and automation
 
 ## Blogs
+
+* [Scott Lowe Blog](https://blog.scottlowe.org/)
 
 ## Books
 
@@ -25,11 +38,15 @@ Bunch of materials used from 2016
 
 ## Articles
 
+* [Docker Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
+
 ## Outputs
 
 # Linux
 
 ## Blogs
+
+* [Julia Evans Blog](https://jvns.ca/)
 
 ## Books
 
@@ -62,6 +79,8 @@ Bunch of materials used from 2016
 
 ## Blogs
 
+* [Just for func](https://www.youtube.com/c/justforfunc/)
+
 ## Books
 
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -80,6 +99,8 @@ Bunch of materials used from 2016
 * [SREcon16](https://www.usenix.org/conference/srecon16europe)
 
 ## Articles
+
+* [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
 
 ## Outputs
 
@@ -105,6 +126,14 @@ Bunch of materials used from 2016
 
 ## Blogs
 
+* [Ivan Pepelnjak Blog](http://blog.ipspace.net/)
+* [Packet Pushers](http://packetpushers.net/)
+* [Ryan Booth Blog](http://blog.movingonesandzeros.net/)
+* [Geoff Huston Blog](https://www.potaroo.net/)
+* [David Barroso Blog](https://www.dravetech.com/blog/)
+* [Network Collective](https://thenetworkcollective.com/category/episodes/)
+* [Tech Field Day](http://techfieldday.com/)
+
 ## Books
 
 * [Network Automation at scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
@@ -125,6 +154,8 @@ Bunch of materials used from 2016
 * [RIPE 73](https://ripe73.ripe.net/)
 
 ## Articles
+
+* [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
 
 ## Outputs
 
