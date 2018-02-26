@@ -19,6 +19,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
 * [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+* [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
+* [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
 
 
 # Cloud and automation
