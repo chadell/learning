@@ -23,7 +23,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
 
 
-# Cloud and automation
+# Cloud and Containers
 
 ## Blogs
 
@@ -38,10 +38,12 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Courses
 
 * [AWS Solutions Architect - Associate Labs](https://qwiklabs.com/quests/10?locale=en)
+* [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
 
 ## Articles
 
-* [Docker Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
+* [Docker Networking Design](https://success.docker.com/article/Docker_Reference_Architecture-_Designing_Scalable,_Portable_Docker_Container_Networks)
+* [Docker Networking Troubleshooting](https://success.docker.com/article/Troubleshooting_Container_Networking)
 
 ## Outputs
 
@@ -64,20 +66,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Articles
 
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
-
-## Outputs
-
-# Containers and orchestrators
-
-## Blogs
-
-## Books
-
-## Courses
-
-* [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
-
-## Articles
 
 ## Outputs
 
