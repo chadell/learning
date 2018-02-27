@@ -81,6 +81,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Understanding Network Hacks - Attack and Defense with Python](http://www.springer.com/la/book/9783662444368)
 * [Pro Python Best Practices - Debugging, Testing and Maintenance](https://www.apress.com/la/book/9781484222409)
 * [Site Reliability Engineering](http://shop.oreilly.com/product/0636920041528.do)
+* [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 
 ## Courses
 
@@ -123,6 +124,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Blogs
 
 * [Ivan Pepelnjak Blog](http://blog.ipspace.net/)
+* [Cloudflare](https://blog.cloudflare.com/)
 * [Packet Pushers](http://packetpushers.net/)
 * [Ryan Booth Blog](http://blog.movingonesandzeros.net/)
 * [Geoff Huston Blog](https://www.potaroo.net/)
