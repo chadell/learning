@@ -121,6 +121,10 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 # Networking
 
+## Slack
+
+* [Networktocode](http://networktocode.herokuapp.com/)
+
 ## Blogs
 
 * [Ivan Pepelnjak Blog](http://blog.ipspace.net/)
