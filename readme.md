@@ -21,6 +21,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
+* [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 
 
 # Cloud and Containers
@@ -132,7 +133,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Packet Pushers](http://packetpushers.net/)
 * [Ryan Booth Blog](http://blog.movingonesandzeros.net/)
 * [Geoff Huston Blog](https://www.potaroo.net/)
-* [The Networking Nerd)[https://networkingnerd.net/]
+* [The Networking Nerd](https://networkingnerd.net/)
 * [David Barroso Blog](https://www.dravetech.com/blog/)
 * [Network Collective](https://thenetworkcollective.com/category/episodes/)
 * [Tech Field Day](http://techfieldday.com/)
