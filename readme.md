@@ -5,8 +5,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Ongoing
 
 * [AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
-
 
 ## Backlog
 
