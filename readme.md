@@ -5,8 +5,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Ongoing
 
 * [AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
-* [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
+* [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
+
 
 ## Backlog
 
@@ -20,7 +20,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
 * [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
-* [Dropbox saved 75M](https://www.geekwire.com/2018/dropbox-saved-almost-75-million-two-years-building-tech-infrastructure/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 
 
@@ -114,7 +113,10 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Scrum Master Certified CSM](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 
-## Articles
+## Articles / Videos
+
+* [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
+* [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
 
 ## Outputs
 
