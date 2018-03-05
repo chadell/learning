@@ -45,6 +45,10 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Docker Networking Design](https://success.docker.com/article/Docker_Reference_Architecture-_Designing_Scalable,_Portable_Docker_Container_Networks)
 * [Docker Networking Troubleshooting](https://success.docker.com/article/Troubleshooting_Container_Networking)
 
+## Resources
+
+* [Docker network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
+
 ## Outputs
 
 # Linux
