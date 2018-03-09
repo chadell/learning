@@ -19,14 +19,15 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
+* [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 
 
 # Cloud and Containers
 
 ## Blogs
 
-* [Enter Dev y Ops](http://www.entredevyops.es/)
 * [Scott Lowe Blog](https://blog.scottlowe.org/)
+* [Enter Dev y Ops](http://www.entredevyops.es/)
 
 ## Books
 
@@ -130,7 +131,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Networktocode](http://networktocode.herokuapp.com/)
 
-## Blogs
+## Blogs / Podcasts
 
 * [Ivan Pepelnjak Blog](http://blog.ipspace.net/)
 * [Cloudflare](https://blog.cloudflare.com/)
@@ -141,6 +142,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [David Barroso Blog](https://www.dravetech.com/blog/)
 * [Network Collective](https://thenetworkcollective.com/category/episodes/)
 * [Tech Field Day](http://techfieldday.com/)
+* [Packet Pushers](http://packetpushers.net/)
 
 ## Books
 
