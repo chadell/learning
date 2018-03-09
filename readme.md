@@ -20,6 +20,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
+* [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 
 # Cloud and Containers
