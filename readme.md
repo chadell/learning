@@ -144,7 +144,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [David Barroso Blog](https://www.dravetech.com/blog/)
 * [Network Collective](https://thenetworkcollective.com/category/episodes/)
 * [Tech Field Day](http://techfieldday.com/)
-* [Packet Pushers](http://packetpushers.net/)
+* [Koran Peyton Blog](https://www.peytonkoran.net/)
+* [Matt Oswalt Blog](https://keepingitclassless.net/)
 
 ## Books
 
