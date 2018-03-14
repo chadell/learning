@@ -21,6 +21,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
+* [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
 
 
 # Cloud and Containers
@@ -175,3 +176,4 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [GORE 19 Presentation](https://chadell.github.io/slides/170406_gore19/)
 * [Barcelona SDN & Network Programmability Meetup](meetup.com/es-ES/SDN-and-Network-Programmability-Meetup-in-Barcelona/)
+* [Netnod 18](https://chadell.github.io/slides/180314_netnod/NetNod18.pdf)
