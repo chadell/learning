@@ -23,6 +23,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
+* The automated traffic handbook o'reilly
 
 
 # Cloud and Containers
