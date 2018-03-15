@@ -22,6 +22,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
+* Reactive Microservices Architecture o'reilly
+* Securing Microservices APIs o'reilly
 
 
 # Cloud and Containers
