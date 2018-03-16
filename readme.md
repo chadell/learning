@@ -24,6 +24,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
 * The automated traffic handbook o'reilly
+* [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 
 
 # Cloud and Containers
