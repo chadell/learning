@@ -51,7 +51,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Docker Networking Troubleshooting](https://success.docker.com/article/Troubleshooting_Container_Networking)
 * [AWS multicast](https://aws.amazon.com/articles/overlay-multicast-in-amazon-virtual-private-cloud/)
 * [GCP vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/)
-* [Kubernetes: Flannel Networking](https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c)
+* [Flannel networking overview](https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c)
+* [Flannel networking analyisis](http://res.www.zte.com.cn/mediares/magazine/publication/com_en/article/201704/466313/P020171124587760883199.pdf)
 
 
 ## Resources
