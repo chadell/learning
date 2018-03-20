@@ -26,7 +26,9 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * The automated traffic handbook o'reilly
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * Book Computer Networking Problems and Solutions
-
+* [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
+* [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
+* [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 
 # Cloud and Containers
 
