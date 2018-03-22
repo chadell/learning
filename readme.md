@@ -29,6 +29,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
+* [Dockercon EU](http://europe-2018.dockercon.com/)
 
 # Cloud and Containers
 
