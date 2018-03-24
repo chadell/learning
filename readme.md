@@ -115,6 +115,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Articles
 
 * [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
+* [12-factor app](https://12factor.net/)
 
 ## Outputs
 
