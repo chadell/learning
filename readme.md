@@ -4,11 +4,11 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Ongoing
 
-* [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
+* [DevOps Barcelona](https://devops.barcelona)
 
 ## Backlog
 
-* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
 * [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
 * [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
@@ -47,6 +47,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [AWS Solutions Architect - Associate Labs](https://qwiklabs.com/quests/10?locale=en)
 * [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
+* [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 
 ## Articles
 
@@ -135,6 +136,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
 * [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
+* [HTML slides tricks](http://huffn.github.io/htmlApprentice/)
 
 ## Outputs
 
