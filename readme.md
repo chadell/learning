@@ -7,29 +7,33 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
 * [DevOps Barcelona](https://devops.barcelona)
 
+## Next Quarter Personal OKRs
+
+* [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
+* [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
+* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
+* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
+
 ## Backlog
 
 * [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
 * [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
 * [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
-* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
-* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
 * The automated traffic handbook o'reilly
-* [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * Book Computer Networking Problems and Solutions
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
-* [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [Dockercon EU](http://europe-2018.dockercon.com/)
+* [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
 
 # Cloud and Containers
 
