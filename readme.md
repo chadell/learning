@@ -94,6 +94,10 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 # Software Engineering & Coding
 
+## Coding projects
+
+* [Python Serverless](https://github.com/Miserlou/Zappa/)
+
 ## Blogs
 
 * [Just for func](https://www.youtube.com/c/justforfunc/)
@@ -196,4 +200,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [GORE 19 Presentation](https://chadell.github.io/slides/170406_gore19/)
 * [Barcelona SDN & Network Programmability Meetup](meetup.com/es-ES/SDN-and-Network-Programmability-Meetup-in-Barcelona/)
-* [Netnod 18](https://chadell.github.io/slides/180314_netnod/NetNod18.pdf)
+* [Netnod 18 slides](https://chadell.github.io/slides/180314_netnod/NetNod18.pdf)
+* [Netnod 18 video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
+
