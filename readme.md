@@ -34,6 +34,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [Dockercon EU](http://europe-2018.dockercon.com/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
+* [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 
 # Cloud and Containers
 
