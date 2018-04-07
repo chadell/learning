@@ -4,7 +4,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Ongoing
 
-* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
 * [DevOps Barcelona](https://devops.barcelona)
 
 ## Next Quarter Personal OKRs
@@ -36,6 +35,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
 * [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
+* [Certification AWS Solutions Architect Professional]()
+
 
 # Cloud and Containers
 
@@ -54,6 +55,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [AWS Solutions Architect - Associate Labs](https://qwiklabs.com/quests/10?locale=en)
 * [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
 * [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
+
 
 ## Articles
 
