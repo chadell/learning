@@ -10,9 +10,13 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
-* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Book Designing Data-Intensive Applications](https://dataintensive.net/)
+
+## Candidate Conferences
+
+* [Dockercon EU](http://europe-2018.dockercon.com/)
+* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
 
 ## Backlog
 
@@ -31,7 +35,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * Book Computer Networking Problems and Solutions
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
-* [Dockercon EU](http://europe-2018.dockercon.com/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
 * [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
