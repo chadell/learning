@@ -167,18 +167,19 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Blogs / Podcasts
 
-* [Ivan Pepelnjak Blog](http://blog.ipspace.net/)
+* [Ivan Pepelnjak](http://blog.ipspace.net/)
 * [Cloudflare](https://blog.cloudflare.com/)
 * [Packet Pushers](http://packetpushers.net/)
-* [Ryan Booth Blog](http://blog.movingonesandzeros.net/)
-* [Geoff Huston Blog](https://www.potaroo.net/)
-* [Russ White Blog](https://rule11.tech/)
+* [Ryan Booth](http://blog.movingonesandzeros.net/)
+* [Geoff Huston](https://www.potaroo.net/)
+* [Russ White](https://rule11.tech/)
 * [The Networking Nerd](https://networkingnerd.net/)
-* [David Barroso Blog](https://www.dravetech.com/blog/)
+* [David Barroso](https://www.dravetech.com/blog/)
 * [Network Collective](https://thenetworkcollective.com/category/episodes/)
 * [Tech Field Day](http://techfieldday.com/)
-* [Koran Peyton Blog](https://www.peytonkoran.net/)
-* [Matt Oswalt Blog](https://keepingitclassless.net/)
+* [Koran Peyton](https://www.peytonkoran.net/)
+* [Matt Oswalt](https://keepingitclassless.net/)
+* [Router Jockey](https://routerjockey.com/)
 
 ## Books
 
