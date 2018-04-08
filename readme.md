@@ -5,12 +5,12 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Ongoing
 
 * [DevOps Barcelona](https://devops.barcelona)
+* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 
 ## Next Quarter Personal OKRs
 
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
-* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Book Designing Data-Intensive Applications](https://dataintensive.net/)
 
 ## Candidate Conferences
