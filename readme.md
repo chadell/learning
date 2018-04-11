@@ -4,7 +4,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Ongoing
 
-* [DevOps Barcelona](https://devops.barcelona)
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 
 ## Next Quarter Personal OKRs
@@ -78,6 +77,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Outputs
 
+* [DevOps Barcelona slides](https://chadell.github.io/slides/180410_devopsbarcelona/)
+
 # Linux
 
 ## Blogs
@@ -136,6 +137,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Outputs
 
 * [TCPGOON](https://github.com/dachad/tcpgoon)
+
 
 # Culture
 
