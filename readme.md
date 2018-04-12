@@ -38,6 +38,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
 * [Certification AWS Solutions Architect Professional]()
+* [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
 
 
 # Cloud and Containers
