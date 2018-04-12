@@ -35,7 +35,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
-* [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
 * [Certification AWS Solutions Architect Professional]()
 * [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
@@ -70,6 +69,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Flannel networking overview](https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c)
 * [Flannel networking analyisis](http://res.www.zte.com.cn/mediares/magazine/publication/com_en/article/201704/466313/P020171124587760883199.pdf)
 * [Thoughts after completing all 7 AWS Certifications](https://zugdud.io/index.php/2017/10/15/reflections-on-completing-all-7-aws-certifications/)
+* [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
 
 
 ## Resources
