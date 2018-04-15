@@ -5,12 +5,16 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ## Ongoing
 
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+* [Network automation workshop 101](https://chadell.github.io/slides/180515_workshopansible/#/)
 
 ## Next Quarter Personal OKRs
 
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [Book Designing Data-Intensive Applications](https://dataintensive.net/)
+* [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
+* [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
+
 
 ## Candidate Conferences
 
@@ -26,7 +30,6 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
 * [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
-* [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 * [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
