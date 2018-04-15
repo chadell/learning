@@ -41,6 +41,10 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
 * [Certification AWS Solutions Architect Professional]()
 * [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
+* [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
+* [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
+* [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
+* [Packetbeat]
 
 
 # Cloud and Containers
